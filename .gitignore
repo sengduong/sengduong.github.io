@@ -1,0 +1,4 @@
+# Keep local configuration private; publish only sanitized templates.
+.env
+.env.*
+!/.env.example
